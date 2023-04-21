@@ -1,0 +1,60 @@
+html {
+  background-color: #959999;
+}
+
+
+
+.title {
+  color: #424b4b;
+  text-align: center;
+  padding: 10px 15px;
+  background-color: #747A7a;
+  font-family: arial narrow;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  max-width: 750px;
+  border-radius: 10px;
+}
+
+div > h1 {
+  font-size: 70;
+}
+
+div > p {
+  font-size: 25;
+}
+
+div > img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  max-width: 800px;
+  border-radius: 10px;
+}
+
+
+fieldset {
+  width: 100%;
+  max-width: 800px;
+  border: solid;
+  font-family: Geneva;
+  color: #424b4b;
+  background-color: #747A7A;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
+}
+
+.quote {
+  width: 100%;
+  max-width: 800px;
+  border: none;
+  padding: 15 0;
+  font-family: Geneva;
+  color: #424b4b;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
